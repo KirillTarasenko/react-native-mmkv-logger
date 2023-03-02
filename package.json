@@ -1,0 +1,23 @@
+{
+  "name": "react-native-mmkv-logger",
+  "version": "1.0.0",
+  "description": "Logger for save actions between sessions with react-native-mmkv",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KirillTarasenko/react-native-mmkv-logger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KirillTarasenko/react-native-mmkv-logger/issues"
+  },
+  "homepage": "https://github.com/KirillTarasenko/react-native-mmkv-logger#readme",
+  "peerDependencies": {
+    "react-native-mmkv": "*"
+  }
+}
